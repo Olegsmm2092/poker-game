@@ -25,7 +25,7 @@ pip install -r requirements.txt
 1. Run the app.py script:
 ````python
 python app.py
-```
+````
 2. Follow the instructions on the command line to start the game and make your moves.
 
 ## Design
